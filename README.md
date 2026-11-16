@@ -1,2 +1,2 @@
-# wpr_do_grafiki_maszynowej
+# wpr-do-grafiki-maszynowej
 skrypty napisane na zajęciach z grafiki maszynowej w GNU Octave
